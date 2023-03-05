@@ -1,4 +1,4 @@
 Git - not so stupid content tracker
 
 Commit - set of data which we need to store
-Commit amend - useful for fixing of the last commit (changes the commit message or add some files)
+Commit amend -  is useful for fixing of the last commit (changes the commit message or add some files)
