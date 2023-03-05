@@ -1,1 +1,3 @@
 Git - not so stupid content tracker
+
+Commit - set of data which we need to store
